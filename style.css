@@ -1,0 +1,29 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    background: ghostwhite;
+}
+
+/*
+Jag stylar footer som skapades, lägger färg, position, textstorlek och bakgrundsfärg.
+ */
+.section {
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+    background-color: lightgrey;
+    color: black;
+    text-align: center;
+    font-size: 18px;
+}
+/*
+ändrar storlek och färg på paragraf i sidan.
+ */
+.paragraf {
+    font-size: 14px;
+    color: black;
+}
+
+.header {
+    width: 100%;
+}
